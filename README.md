@@ -1,4 +1,4 @@
-# Cs_50
+# HarvardX: CS50x : CS50's Introduction to Computer Science
 
 # Week 0 Scratch
 	1)Scratch - 100%
