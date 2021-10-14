@@ -15,3 +15,13 @@
 4)Cash : 100%
 
 # Week 2 Arrays
+
+1) Lab 2: Scrabble - 0%
+
+2)Readability - 0%
+
+3)Caesar - 0%
+
+4)Substitution - 0%
+
+# Week 3 Algorithms
